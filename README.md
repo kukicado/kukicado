@@ -1,4 +1,14 @@
-### Hi there 👋
+## 👋 Hi, I’m Ado!
+
+I am a full-stack software engineer, international speaker, and developer evangelist.
+
+Professionally, I am a Lead Developer Advocate at MongoDB. Prior to that I led the Developer Evangelism team and Ambassador Program at Auth0. I am a Google Developer Expert for Web Technologies and spend most my time giving talks at conferences and meetups, mentoring and running workshops, and creating online content to help technology professionals.
+
+I have over 15 years of software development experience working with technologies like Angular, NodeJS, Go, MongoDB, PostgreSQL, and many others. I have held many roles in my career ranging from engineering, research and development, and leadership in both startups and enterprises.
+
+My passion has always been technology and education. I write tutorials, record video courses, and contribute to open source projects. I am an avid reader, occasional gamer, and tech gadget enthusiast.
+
+If you’d like to get in touch, you can find me on the social media networks above or email me directly at contact@ado.xyz.
 
 <!--
 **kukicado/kukicado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
